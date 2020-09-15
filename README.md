@@ -28,7 +28,7 @@ Clone da interface do App de streans da Twitch.TV realizado por Guilherme Rodz.
 
 1. Clone esse repositório:
 ```sh 
-git@github.com:flubyGit/portfolio.git
+https://github.com/flubyGit/ui-clone-rn-twitch.git
 ```
 2. Abra o projeto no seu editor de texto
 3. No seu terminal, instale os pacotes necessários
